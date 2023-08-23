@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;  
+}
+.fundo-do-cartao{
+    background-color: rgb(245, 247, 213);
+}
+
+a{
+    text-decoration: none;
+}
